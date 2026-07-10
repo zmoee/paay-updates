@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://github.com/zmoee/paay-updates/releases/download/v0.1.2/paay-release-fixed-debugsigned.apk",
+  "sha256": "34B0018D019A186277439B10D14E8CF9C2E049344C229B71F21637B414B81B27",
+  "notes": "新增通知栏运行状态和远程更新模块",
+  "force": false
+}
